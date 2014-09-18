@@ -1,17 +1,15 @@
-# Helsinki open device lab
+# Burlington Open Device Lab
 
-This is the working repository of [devicelab.fi](http://devicelab.fi) site.
-
+This is the working repository of the [btvodl.com](http://btvodl.com) site.
 
 #### Installation:
 
 Clone the repository and open index.html in the browser. No config needed.
 
-
 #### License
 Licensed under the MIT license.
 
-Copyright (c) 2011-2012 Viljami Salminen, [http://viljamis.com/](http://viljamis.com/)
+Copyright (c) 2011-2012 Viljami Salminen, [http://viljamis.com/](http://viljamis.com/), and 2014 Union Street Media, [http://www.unionstreetmedia.com/](http://www.unionstreetmedia.com/).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
