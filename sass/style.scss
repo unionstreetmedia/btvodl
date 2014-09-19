@@ -780,7 +780,7 @@ screen and (min-resolution: 2dppx) {
     margin-top: 3.5em;
   }
 
-  .section.location {
+  .section.location, .section.contributors {
     padding: 1.5em 0 1em;
 
     img {
@@ -805,6 +805,17 @@ screen and (min-resolution: 2dppx) {
       margin-right: 0;
     }
 
+    .contributors_list li {
+      list-style-type: none;
+      float: left;
+      width: 45%;
+      text-align: center;
+    }
+
+    .contributors_list img {
+      width: auto;
+      float: none;
+    }
   }
 
   .section.devices {
